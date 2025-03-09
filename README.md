@@ -6,3 +6,6 @@
     src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <br>
 </div>
+
+# Training Settings & Code
+Coming soon in just a few days! Stay tuned and star our repo if you are interested :) 
