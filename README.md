@@ -1,4 +1,4 @@
-# Open-Code-R1-Zero
+# Open-Code-Zero
 
 <div align="center" style="line-height: 1;">
   <a href="https://nebula-petunia-008.notion.site/Aha-Moment-in-Code-Reasoning-from-7B-Base-Models-and-15k-data-1b138625ace8802a9740de5b6fe567ed" target="_blank">
